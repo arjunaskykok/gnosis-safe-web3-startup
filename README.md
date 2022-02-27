@@ -1,4 +1,4 @@
-# Code on how to use Gnosis Safe SDK
+# The code sample of how to use the Gnosis Safe SDK
 
 ## Getting Started
 
